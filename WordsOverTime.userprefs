@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="WordsOverTime/WordsOverTime.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordsOverTime/TrieNode.fs">
+    <Files>
+      <File FileName="WordsOverTime/Program.fs" Line="4" Column="18" />
+      <File FileName="WordsOverTime/TrieNode.fs" Line="6" Column="22" />
+      <File FileName="WordsOverTime/TrieNode.fsi" Line="3" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
